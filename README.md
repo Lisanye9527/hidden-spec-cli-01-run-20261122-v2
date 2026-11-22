@@ -1,3 +1,7 @@
+![Competition](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)
+![Rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/Lisanye9527/hidden-spec-cli-01-run-20261122-v2/rank.svg)
+![Reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/Lisanye9527/hidden-spec-cli-01-run-20261122-v2/reward.svg)
+
 # mend
 
 One patch tool for every AI edit format, built for the make.fun bounty
